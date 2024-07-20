@@ -1,7 +1,7 @@
 # Express_practice
 # Express Crash Course
 
-This is the code for the [YouTube crash course](https://youtu.be/CnH3kAXSrmU)
+This is the code for the course.
 
 Install dependencies
 
